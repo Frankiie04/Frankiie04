@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Frankiie04
-- 👀 I’m interested in data analytics
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently taking the Google Data Analytics Professional Certificate Course
 - 💞️ I’m looking to collaborate on anything data
 - 📫 You can reach me via email @frances.akanmu@gmail.com
